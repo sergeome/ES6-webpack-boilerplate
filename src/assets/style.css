@@ -1,3 +1,15 @@
 body {
-	background: red;
+	background: #dbdbdb;
+}
+h1 {
+	text-align: center;
+}
+.logo {
+	margin: 0 auto;
+	width: 300px;
+
+}
+img {
+	max-width: 300px;
+	height: auto;
 }
